@@ -25,12 +25,7 @@ Anything else that you want to add for users? You can write it here in markdown 
 | AndroidX | Refactored versions of the Android APIs that are not bundled with the operating system. |
 | AndroidX Test | Includes APIs for testing your Android app, including Espresso, JUnit Runner, JUnit4 rules, and UI Automator. |
 
-### You can add 
 [Links](https://itsvg.in)
  
 ![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
-# If you don't want to add this section, just clear all the text written here.
-
-      
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
     
